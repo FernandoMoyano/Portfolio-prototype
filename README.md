@@ -7,7 +7,7 @@
 [Go to the Site](https://fernandomoyano.github.io/Portfolio-prototype/)
 >GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
-## Languages
+## _Languages_
 
 <link rel="stylesheet" href="devicon.min.css">
 
