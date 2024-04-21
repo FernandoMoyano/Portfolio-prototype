@@ -3,9 +3,6 @@
 ## _Description_
 >This is a prototype of a personal portfolio for any designer and developer
 
-## View Deployment
-[Go to the Site](https://fernandomoyano.github.io/Portfolio-prototype/)
->GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website.
 
 ## _Languages_
 
